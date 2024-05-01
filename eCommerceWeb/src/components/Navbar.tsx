@@ -21,6 +21,7 @@ const Navbar = () => {
           </div>
           <div className="icon__wrapper ralative">
           <AiOutlineShoppingCart />
+          
           </div>
          </div>
       </div>
